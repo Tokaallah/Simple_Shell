@@ -11,7 +11,6 @@
 #include <string.h>
 #include <signal.h>
 
-
 /*global variables*/
 
 char **create_env(char *envp[]);
